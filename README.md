@@ -1,6 +1,25 @@
-# Hello_World
+# Table of Contents
+- [Project Title](link-to-project-title)
+- [Description](link-to-description)
+- [How to Run Program](link-to-how-to-run-program)
+- [Files Used](link-to-files-used)
+- [Additional Documentation](link-to-additional-documentation)
+- [Versioning](link-to-versioning)
 
-Hi Humans!
+# Project Title
+**Hello World**
 
-Hubot here, I like Node.js and Coffeescript (That's what I'm made of!).
-I've had tacos on the moon and find them far supior to Earth tacos.
+# Description
+Practice utilizing GitHub by creating a sample repository.
+
+# How to Run Program
+Explain how to run the program and what files will be necessary.
+
+# Files Used
+Add names, location gotten from, and description of files used. 
+
+# Additional Documentation
+No additional documentation for this sample. 
+
+# Versioning
+Discuss here what type of versioning you used, especially if major changes were made. 
